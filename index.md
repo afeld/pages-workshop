@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # GitHub Pages workshop
@@ -61,3 +62,4 @@ There are a bunch of ways to get a Pages site created (and to modify it afterwar
 
 * http://api.afeld.me
 * https://18f.gsa.gov/hub
+* https://github.com/18F/hourofcode
